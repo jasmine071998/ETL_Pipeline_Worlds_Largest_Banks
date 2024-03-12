@@ -1,4 +1,4 @@
-********ETL Pipeline for World's Largest Banks********
+# ETL Pipeline for World's Largest Banks
 
 * Spearheaded the successful completion of end-to-end ETL (Extract, Transform, Load) operations, contributing to a streamlined data processing workflow for a multinational firm.
 * Leveraged advanced web scraping techniques to accurately extract tabular information from a designated website, resulting in the compilation of the top 10 largest banks worldwide ranked by market capitalization.
